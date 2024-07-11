@@ -2,7 +2,7 @@ syntax on
 
 set autoindent
 set smartindent
-set shiftwidth=2 smarttab
+set shiftwidth=4 smarttab
 set expandtab " only use space characters, never tab characters
 
 set clipboard+=unnamed " yank and copy to the system clipboard
